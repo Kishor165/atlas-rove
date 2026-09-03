@@ -31,7 +31,7 @@ The website allows users to explore destinations, search and filter locations ba
 
 <!-- Add your home page screenshot here -->
 
-![Elvara Home Page](./screenshots/home.png)
+![Elvara Home Page](./Screenshot-427.png)
 
 ### 🧭 Explore Destinations
 
