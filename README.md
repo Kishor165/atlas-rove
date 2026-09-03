@@ -1,42 +1,136 @@
-# Elvara
+# 🌍 Elvara – Travel Explorer
 
-Elvara is a design-led travel explorer built in React for curious travelers who want a place to feel legible before they arrive. It combines editorial destination browsing with live-weather-style context, location awareness, notable places, an assistant panel, and a readable day-by-day itinerary.
+> A modern and interactive travel exploration website designed to help users discover destinations, explore travel experiences, and create personalized trip itineraries.
 
-## Features
+## 🚀 Live Demo
 
-The landing experience opens with a cinematic looping hero treatment and clear navigation into the explorer. Visitors can search destinations, filter them by mood, select a destination to reveal its current conditions and reasons to stay longer, and use the browser's geolocation permission when available. The interface also includes intentional empty and unavailable states for search and location.
+🔗 **[View Elvara Live](https://atlas-rove-7beoj9reo-kishor-kumars-projects-f9f558c3.vercel.app/)**
 
-The assistant panel is designed as a graceful front-end prototype: visitors can ask for a slower, food-led, outdoors, or otherwise tailored trip, receive a helpful response, and generate a structured three-day plan that renders as itinerary cards rather than an undifferentiated chat transcript.
+## 📌 About The Project
 
-## APIs and data sources
+**Elvara** is a modern travel exploration and trip-planning web application built to provide users with a simple, visual, and interactive way to discover destinations across India.
 
-This front-end prototype uses a small local destination dataset to keep the experience deterministic in preview and deployment environments. The hero includes a remote looping video source from Coverr with a generated image poster and fallback. In a production version, the weather panel can be wired to OpenWeather, images can be sourced from Unsplash or Pexels, and the assistant can be connected to Google Gemini through a server-side proxy. API keys should remain in environment variables and must never be committed to the repository.
+The website allows users to explore destinations, search and filter locations based on travel preferences, view destination information and weather details, and interact with a Trip Assistant to create a personalized travel itinerary.
 
-## Run locally
+## ✨ Key Features
 
-```bash
-pnpm install
-pnpm dev
+* 🔎 **Destination Search** – Quickly search for specific destinations.
+* 🏔️ **Travel Mood Filters** – Filter destinations based on preferences such as Slow, Mountains, Coast, and Culture.
+* 📍 **Location Awareness** – Uses browser location functionality for a more personalized experience.
+* 🌤️ **Weather Information** – Displays weather and temperature information for selected destinations.
+* 🗺️ **Destination Details** – Explore recommended places and experiences for each destination.
+* 🤖 **Trip Assistant** – Interact with the travel assistant based on your preferred travel style.
+* 📅 **Personalized Itinerary** – Generate a structured 3-day travel plan.
+* 🎨 **Modern UI/UX** – Clean, responsive, and visually engaging travel-focused design.
+* ✨ **Interactive Animations** – Smooth transitions, hover effects, and interactive elements.
+* 📱 **Responsive Design** – Designed to work across different screen sizes.
+
+## 🖥️ Screenshots
+
+### 🏠 Home Page
+
+<!-- Add your home page screenshot here -->
+
+![Elvara Home Page](./screenshots/home.png)
+
+### 🧭 Explore Destinations
+
+<!-- Add your explore section screenshot here -->
+
+![Explore Destinations](./screenshots/explore.png)
+
+### 🌤️ Destination Details
+
+<!-- Add your destination details screenshot here -->
+
+![Destination Details](./screenshots/destination.png)
+
+### 🤖 Trip Assistant
+
+<!-- Add your trip assistant screenshot here -->
+
+![Trip Assistant](./screenshots/assistant.png)
+
+### 📅 Generated Itinerary
+
+<!-- Add your itinerary screenshot here -->
+
+![Travel Itinerary](./screenshots/itinerary.png)
+
+## 🛠️ Technologies Used
+
+* **React**
+* **TypeScript**
+* **Vite**
+* **Tailwind CSS**
+* **CSS**
+* **Lucide React**
+* **Google Maps Integration**
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+│   └── ui/
+├── pages/
+│   └── Home.tsx
+├── App.tsx
+├── Map.tsx
+├── index.css
+└── main.tsx
 ```
 
-The production build can be checked with:
+## ⚙️ Installation & Setup
+
+Clone the repository:
 
 ```bash
-pnpm check
-pnpm build
+git clone <your-github-repository-url>
 ```
 
-## Design system
+Navigate to the project directory:
 
-Elvara follows a **Coastline Modern** direction: limestone canvas, ink typography, Atlas Cobalt wayfinding accents, DM Serif Display for editorial headlines, and Manrope for interface copy. The layout uses staggered editorial rails, route-line motifs, tactile color fields, and restrained motion. The experience respects `prefers-reduced-motion`.
+```bash
+cd atlas-rove
+```
 
-## Screenshots
+Install dependencies:
 
-The live preview in the Manus project workspace contains the current responsive implementation. The primary visual checkpoints are the cinematic hero, staggered destination explorer, selected-destination weather and places section, and the assistant-driven itinerary state.
+```bash
+npm install
+```
 
-## Project structure
+Start the development server:
 
-- `client/src/pages/Home.tsx` contains the main travel experience and interaction state.
-- `client/src/index.css` contains the design tokens, typography, and motion system.
-- `client/src/App.tsx` wires the application route and theme provider.
-- `ideas.md` records the design exploration and chosen direction.
+```bash
+npm run dev
+```
+
+The application will then be available on the local development server.
+
+## 🎯 Project Highlights
+
+The main highlight of Elvara is the combination of **destination discovery and personalized trip planning** in a single platform.
+
+Instead of only displaying destination information, the application provides an interactive experience where users can search for destinations, select their preferred travel mood, explore recommended places, check weather information, and use the Trip Assistant to generate a structured itinerary.
+
+## 🔮 Future Improvements
+
+* Integration with real-time travel APIs
+* Live Google Maps and route planning
+* Hotel and flight recommendations
+* More advanced AI-powered trip planning
+* User accounts and saved trips
+* Trip sharing functionality
+* Multi-language support
+
+## 👨‍💻 Author
+
+**Kishor Kumar**
+
+Built with ❤️ using React, TypeScript, and modern web technologies.
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
