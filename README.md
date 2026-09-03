@@ -26,37 +26,9 @@ The website allows users to explore destinations, search and filter locations ba
 * 📱 **Responsive Design** – Designed to work across different screen sizes.
 
 ## 🖥️ Screenshots
-
 ### 🏠 Home Page
 
-<!-- Add your home page screenshot here -->
-
 ![Elvara Home Page](./Screenshot-427.png)
-
-### 🧭 Explore Destinations
-
-<!-- Add your explore section screenshot here -->
-
-![Explore Destinations](./screenshots/explore.png)
-
-### 🌤️ Destination Details
-
-<!-- Add your destination details screenshot here -->
-
-![Destination Details](./screenshots/destination.png)
-
-### 🤖 Trip Assistant
-
-<!-- Add your trip assistant screenshot here -->
-
-![Trip Assistant](./screenshots/assistant.png)
-
-### 📅 Generated Itinerary
-
-<!-- Add your itinerary screenshot here -->
-
-![Travel Itinerary](./screenshots/itinerary.png)
-
 ## 🛠️ Technologies Used
 
 * **React**
