@@ -29,6 +29,10 @@ The website allows users to explore destinations, search and filter locations ba
 
 ### 🏠 Home Page
 
+![Elvara Home Page](https://raw.githubusercontent.com/Kishor165/atlas-rove/main/home-page.png)
+
+### 🏠 Home Page
+
 ![Elvara Home Page](./home-page.png)
 
 ## 🛠️ Technologies Used
