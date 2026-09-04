@@ -29,7 +29,7 @@ The website allows users to explore destinations, search and filter locations ba
 
 ### 🏠 Home Page
 
-![Elvara Home Page](./Screenshot-427.png)
+![Elvara Home Page](./home-page.png)
 
 ## 🛠️ Technologies Used
 
