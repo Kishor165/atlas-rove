@@ -28,7 +28,7 @@ The website allows users to explore destinations, search and filter locations ba
 ## 🖥️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](./homepage.png)
+![Home Page](./homepage.png?v=1)
 
 ### 🔍 Explore Page
 ![Explore Page](./explore-page.png)
