@@ -43,6 +43,7 @@ The website allows users to explore destinations, search and filter locations ba
 ### 🔍 Explore Page
 ![Explore Page](./explore-page.png)
 
+
 ### 📍 Destination Page
 ![Destination Page](./destination-page.png)
 
