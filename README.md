@@ -33,6 +33,7 @@ The website allows users to explore destinations, search and filter locations ba
 * ✨ **Interactive Animations** – Smooth transitions, hover effects, and interactive elements.
 * 📱 **Responsive Design** – Designed to work across different screen sizes.
 
+
 ## 🖥️ Screenshots
 
 ### 🏠 Home Page
