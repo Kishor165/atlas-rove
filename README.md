@@ -44,7 +44,6 @@ The website allows users to explore destinations, search and filter locations ba
 * **Google Maps Integration**
 
 ## 📂 Project Structure
-
 ```text
 src/
 ├── components/
