@@ -34,7 +34,6 @@ The website allows users to explore destinations, search and filter locations ba
 ### 📍 Destination Page
 ![Destination Page](./destination-page.png)
 
-
 ## 🛠️ Technologies Used
 * **React**
 * **TypeScript**
