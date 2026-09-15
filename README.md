@@ -1,6 +1,5 @@
 # 🌍 Elvara – Travel Explorer
 
- 
 > A modern and interactive travel exploration website designed to help users discover destinations, explore travel experiences, and create personalized trip itineraries.
 
 ## 🚀 Live Demo
