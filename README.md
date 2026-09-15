@@ -4,8 +4,6 @@
 
 ## 🚀 Live Demo
 
-
- 
 🔗 **[View Elvara Live](https://atlas-rove.vercel.app/)**
 
  
