@@ -104,6 +104,5 @@ Instead of only displaying destination information, the application provides an 
 **Kishor Kumar**
 
 Built with ❤️ using React, TypeScript, and modern web technologies.
-
 ---
 ⭐ If you like this project, consider giving the repository a star!
