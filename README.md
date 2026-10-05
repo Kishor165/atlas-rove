@@ -90,7 +90,6 @@ The main highlight of Elvara is the combination of **destination discovery and p
 Instead of only displaying destination information, the application provides an interactive experience where users can search for destinations, select their preferred travel mood, explore recommended places, check weather information, and use the Trip Assistant to generate a structured itinerary.
 
 ## 🔮 Future Improvements
-
 * Integration with real-time travel APIs
 * Live Google Maps and route planning
 * Hotel and flight recommendations
