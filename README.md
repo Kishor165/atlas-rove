@@ -84,7 +84,6 @@ npm run dev
 The application will then be available on the local development server.
 
 ## 🎯 Project Highlights
-
 The main highlight of Elvara is the combination of **destination discovery and personalized trip planning** in a single platform.
 
 Instead of only displaying destination information, the application provides an interactive experience where users can search for destinations, select their preferred travel mood, explore recommended places, check weather information, and use the Trip Assistant to generate a structured itinerary.
