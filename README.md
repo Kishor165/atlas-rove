@@ -12,7 +12,6 @@
 The website allows users to explore destinations, search and filter locations based on travel preferences, view destination information and weather details, and interact with a Trip Assistant to create a personalized travel itinerary.
 
 ## ✨ Key Features
-
 * 🔎 **Destination Search** – Quickly search for specific destinations.
 * 🏔️ **Travel Mood Filters** – Filter destinations based on preferences such as Slow, Mountains, Coast, and Culture.
 * 📍 **Location Awareness** – Uses browser location functionality for a more personalized experience.
