@@ -2,7 +2,6 @@
 > A modern and interactive travel exploration website designed to help users discover destinations, explore travel experiences, and create personalized trip itineraries.
 ## 🚀 Live Demo
 🔗 **[View Elvara Live](https://atlas-rove.vercel.app/)**
-
 ## 📌 About The Project
 
 **Elvara** is a modern travel exploration and trip-planning web application built to provide users with a simple, visual, and interactive way to discover destinations across India.
