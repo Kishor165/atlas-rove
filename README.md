@@ -16,7 +16,6 @@ The website allows users to explore destinations, search and filter locations ba
 * 🎨 **Modern UI/UX** – Clean, responsive, and visually engaging travel-focused design.
 * ✨ **Interactive Animations** – Smooth transitions, hover effects, and interactive elements.
 * 📱 **Responsive Design** – Designed to work across different screen sizes.
-
 ## 🖥️ Screenshots
 ### 🏠 Home Page
 
