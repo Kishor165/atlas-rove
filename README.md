@@ -21,6 +21,7 @@ The website allows users to explore destinations, search and filter locations ba
 * 📱 **Responsive Design** – Designed to work across different screen sizes.
   
 ## 🖥️ Screenshots
+
 ### 🏠 Home Page
 ![Home Page](./webpage.png)
 
