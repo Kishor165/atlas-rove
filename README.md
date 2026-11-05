@@ -94,6 +94,7 @@ Instead of only displaying destination information, the application provides an 
 * Multi-language support
 
 ## 👨‍💻 Author
+
 **Kishor Kumar**
 Built with ❤️ using React, TypeScript, and modern web technologies.
 ---
