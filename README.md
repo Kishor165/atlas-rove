@@ -98,7 +98,6 @@ Instead of only displaying destination information, the application provides an 
 ## 👨‍💻 Author
 
 **Kishor Kumar**
-
 Built with ❤️ using React, TypeScript, and modern web technologies.
 ---
 
