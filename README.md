@@ -11,7 +11,6 @@ The website allows users to explore destinations, search and filter locations ba
 ## ✨ Key Features
 * 🔎 **Destination Search** – Quickly search for specific destinations.
 * 🏔️ **Travel Mood Filters** – Filter destinations based on preferences such as Slow, Mountains, Coast, and Culture.
-* 
 * 📍 **Location Awareness** – Uses browser location functionality for a more personalized experience.
 * 
 * 🌤️ **Weather Information** – Displays weather and temperature information for selected destinations.
